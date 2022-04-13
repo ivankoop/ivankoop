@@ -23,4 +23,5 @@ I'm Ivan Koop, a Passionate self-taught developer. +8 years of experience in Ful
 </p>
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivankoop&theme=nord&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivankoop)](https://github.com/ryo-ma/github-profile-trophy)
+
